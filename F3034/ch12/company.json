@@ -1,0 +1,38 @@
+[
+   {
+      "company": "USA one company",
+      "contact": "Tom Lee",
+      "country": "USA",
+      "sales": 3000
+   },
+   {
+      "company": "Centro comercial Moctezuma",
+      "contact": "Francisco Chang",
+      "country": "China",
+      "sales": 5000
+   },
+   {
+      "company": "International Group",
+      "contact": "Roland Mendel",
+      "country": "Austria",
+      "sales": 6000
+   },
+   {
+      "company": "Island Trading",
+      "contact": "Helen Bennett",
+      "country": "UK",
+      "sales": 3000
+   },
+   {
+      "company": "Laughing Bacchus Winecellars",
+      "contact": "Yoshi Tannamuri",
+      "country": "Canada",
+      "sales": 4000
+   },
+   {
+      "company": "Magazzini Alimentari Riuniti",
+      "contact": "Giovanni Rovelli",
+      "country": "Italy",
+      "sales": 8000
+   }
+]
